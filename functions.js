@@ -1,0 +1,1 @@
+alert("it may hearm your device !")
